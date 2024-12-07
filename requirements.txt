@@ -1,0 +1,6 @@
+requests
+asyncio
+aiohttp
+tqdm
+watchdog  # for directory monitoring
+ #{"token":"flic_0e2f63d99f1f210734f65a1c2268675ab9ddde054fd9d6c81fcb5409d8ccf15c"}
